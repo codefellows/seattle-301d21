@@ -47,28 +47,11 @@ ABCD:
 
 ## Resources / Slides
 <!-- Provide any links to external slides or other resources that will support the delivery of content. These can also be student-facing docs! -->
-* [Agile & MVC Slides](https://www.icloud.com/keynote/000Uuh6ukOlH8Z_Mo53wp8fmg#Code_301_-_Class_1_Slides_Agile_%26_MVC)
 * [jQuery & DOM Slides](https://www.icloud.com/keynote/000lkj_JepVjXS9izEO8qq0Dg#Code_301_-_Class_1_Dom_-_jQuery)
 
-## Lecture: Agile; jQuery
-<!-- List any high level topics, as well as any sub-topic, and associated details or notes that instructors may require to deliver this content -->
-### Topic 1 - Agile and MVC
-* Overview
-  * Agile Web Development
-    34. Compared with the ‘Waterfall’ process
-    35. Importance of stand-ups and pair programming (driver & navigator roles) in relation to this course
-    36. Daily Sprints
-    37. ‘MVP’ & ‘Stretch’ Goals
-    38. User (or project stakeholder) stories & Developer stories
-    39. Iterative Development
-    40. Agile buzzwords (backlog, sprint demos, retrospective, etc)
-  * MVC
-    41. Why do developers care about separating these concerns?
-    42. What are some other architectural design patterns?
-    43. What does each MVC layer do?
-    44. How does each MVC layer tie together in a modern web application?
+## Lecture: jQuery
 
-### Topic 2 - DOM & jQuery / Assignment Prep
+### Topic - DOM & jQuery / Assignment Prep
 * Overview
   * Including jQuery from CDN/locally sourced
   * Vanilla DOM selection & manipulation review
