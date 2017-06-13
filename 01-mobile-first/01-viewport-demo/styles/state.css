@@ -1,0 +1,9 @@
+@media (min-width: 640px) {
+  nav ul {
+    display: block;
+  }
+
+  nav span.icon-menu {
+    display: none;
+  }
+}
