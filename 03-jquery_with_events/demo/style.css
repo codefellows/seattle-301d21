@@ -1,0 +1,56 @@
+body {
+  padding: 20px;
+  font-family: helvetica;
+  font-size: 20px;
+}
+
+h2 {
+  margin-bottom: 20px;
+  font-size: 24px;
+  font-weight: 700;
+  text-decoration: underline;
+}
+
+button {
+  padding: 8px 12px;
+  background: #444;
+  color: #fff;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+  transition: 350ms all;
+}
+
+button:hover {
+  background: #222;
+  color: #f0f0f0;
+}
+
+input[type="text"] {
+  padding: 7px 10px;
+  margin-right: 5px;
+}
+
+input[type="text"]:focus {
+  background: #000;
+  color: #fff;
+}
+
+.container {
+  margin-bottom: 20px;
+  padding: 20px;
+  border: solid 1px #444;
+}
+
+.tasks {
+  margin: 20px 0;
+}
+
+.tasks li {
+  margin: 5px 20px;
+  list-style: circle;
+}
+
+.img-container {
+  margin-top: 20px;
+}

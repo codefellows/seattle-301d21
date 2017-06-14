@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Tasks App!</title>
+    <link rel="stylesheet" href="reset.css">
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <section class="container">
+      <h2>Tasks!</h2>
+
+      <section>
+        <input type="text" placeholder="enter task">
+        <button class="add">Add Task</button>
+      </section>
+
+      <section class="tasks">
+        <ul></ul>
+      </section>
+    </section>
+
+    <section class="container">
+      <h2>Image Swapper!</h2>
+
+      <select>
+        <option value="img/no-selection.png">Select A Color</option>
+        <option value="img/blue.png">Blue Shirt</option>
+        <option value="img/green.png">Green Shirt</option>
+        <option value="img/black.png">Black Shirt</option>
+      </select>
+
+      <div class="img-container">
+        <img class="main-img" src="img/no-selection.png">
+      </div>
+    </section>
+
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>
