@@ -1,6 +1,6 @@
 # Code 301: Intermediate Software Development
 
-[![](https://img.shields.io/badge/YouTube-301d21-red.svg)](https://www.youtube.com/playlist?list=PLM1HIxGbu_izqTJbCEsWGF7-yd-uoDZRZ)
+[![](https://img.shields.io/badge/YouTube-301d21-red.svg)](https://www.youtube.com/playlist?list=PLVngfM2hsbi-2FYvDebBh9VwGKSZk-O5W)
 [![](https://img.shields.io/badge/canvas-301d21-blue.svg)](https://canvas.instructure.com/courses/1164869)
 [![](https://img.shields.io/badge/slack-301d21-orange.svg)](https://codefellows.slack.com/messages/C5GT4CVRT/)
 
