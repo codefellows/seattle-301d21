@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Seattle Data</title>
+    <link rel="stylesheet" href="style.css">
+    <script id="neighborhood-template" type="text/x-handlebars-template">
+      <div>
+        <h2>{{name}}</h2>
+        <p>Part of: {{city}}</p>
+        <p>Current population: {{population}}</p>
+        <p>Founded on: {{founded}}</p>
+        {{{body}}}
+      </div>
+    </script>
+  </head>
+  <body>
+    <header>
+      <section>
+        <h1>Neighborhood Stats:</h1>
+      </section>
+    </header>
+
+    <main>
+      <section id="neighborhoods"></section>
+    </main>
+
+    <footer>
+      <span>&copy; 2017 My Fake Website</span>
+    </footer>
+
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.0.10/handlebars.min.js"></script>
+    <script src="scripts/dataSet.js"></script>
+    <script src="scripts/neighborhood.js"></script>
+  </body>
+</html>
