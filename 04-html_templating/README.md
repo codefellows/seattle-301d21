@@ -52,8 +52,6 @@ ABCD:
 ## Resources / Slides
 <!-- Provide any links to external slides or other resources that will support the delivery of content. These can also be student-facing docs! -->
 
-[Starter code repository for class demo](https://github.com/codefellows/301-04-handlebars-demo)
-
 [Typography Slides](https://docs.google.com/presentation/d/12lziyHjqGJ_dKrJpmGJzFonXsUkx2kd2ckoRBhBoeX8/edit#slide=id.p)
 
 [Templating Slides](https://www.icloud.com/keynote/000d0EEd1VgwzZ_jDy4fnCdsA#Code_301_-_Class_4)
@@ -119,8 +117,3 @@ ABCD:
 
             77. *Styling elements in the elements pane and transferring styles to their blog*
 
----
-
-## Lab
-<!-- Provide a link to the daily lab README in the Labs directory, and review this document as part of the lecture -->
-[4: Templating](../../labs/04-templating/README.md)
